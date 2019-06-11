@@ -1,0 +1,204 @@
+name
+medium 
+persons
+appointment
+time_comm
+location 
+address
+phone_no
+website
+hours
+full_desc
+desc_keywords
+review_keywords
+
+*** SSMU/McGill Services ***
+
+name Psychiatric Services 
+medium inperson 
+persons professional one-on-one
+appointment 5143983601
+time_comm short-term long-term free-schedule
+location downtown
+address 
+phone_no
+website
+hours
+full_desc
+
+name	Peer Counseling Services
+medium inperson
+persons peers volunteers one-on-one
+appointements yes https://pscappointment.wixsite.com/pscbooking
+time_com short-term
+location downtown
+address 3471 Peel St 
+phone_no 514 298 3782
+website https://psc.ssmu.ca/
+hours MF 9-5
+full_desc 'Confidential, non-judgmental, and here for you. The PSC is staffed by friendly and well-trained student peer supporters. We provide a welcoming space where you can share your experiences, feel truly listened to, and find ways to resolve the things you are going through. Stressed? Lonely? Feeling down? Or just want to chat? The PSC is ready to hear you out. If you need help but aren’t sure where to turn, our peer supporters are also happy to connect you with other resources. Drop-in or make an appointment to chat one-on-one with a supporter about anything on your mind.'
+
+
+
+name Office for Students with Disabilities
+medium inperson phone office
+persons professional
+appointment https://mcgill.ca/osd/new-osd-students/first-appointment 5143986009
+time_com short-term
+location downtown
+address 1010 Sherbrooke Ouest, Suite 410
+phone_no 5143986009
+website https://mcgill.ca/osd/
+hours MF 9-5
+full_desc The mission of the Office for Students with Disabilities (OSD) is to facilitate and support the inclusion of diverse learners. If you have or develop a disability during your academic career, assistance is available through the OSD, located in the Brown Building. It is important to contact the OSD early. An adviser will be able to meet you, either face to face or virtually, to explain how the office functions, describe what services are available, and to refer you to other resources if necessary.
+
+
+name Therapist Assisted online 
+medium online inperson
+persons professional
+appointment no
+time_comm long-term free-schedule
+location na
+address na
+phone_no na
+website https://mcgill.ca/counselling/getstarted/tao
+hours na
+full_desc Therapist Assisted Online (TAO) is an interactive, dynamic, and easy-to-access online program. It was designed for addressing issues related to anxiety and depression, which are the problems most commonly faced by students at McGill. TAO can provide resources and tools to promote healthy coping skills and help you bounce back from life’s disappointments and frustrations. As a TAO participant, each week you will watch short videos and complete skill-building exercises. TAO is tailored to fit your schedule and your needs. The exercises can be completed through a smartphone, tablet, or computer and the online programs are accessible 24/7. TAO is available to be completed as a stand-alone resource for preventative care or if you feel like you would require some additional support, you can schedule meetings with a clinician to briefly touch base as you progress through the online material.
+
+name Group Therapy 
+medium inperson
+persons peers professional group
+appointment https://mcgill.ca/wellness-hub/access-care/meet-counsellorpsychiatrist
+time_comm short-term 
+location downtown
+address na
+phone_no na
+website https://mcgill.ca/wellness-hub/get-support/group-therapy
+hours na
+full_desc This group will introduce participants to a variety of cognitive-behavioural therapy techniques to help manage anxiety and depression, including strategies for relaxation, improving mood, managing stress, and achieving more balanced thinking. Participants will learn and practice different mindfulness skills to help them manage painful thoughts and feelings more effectively, and be more present in their day to day lives. Appropriate for: Students experiencing mild to moderate anxiety and/or depression.
+
+name DIAL Hotline
+medium phone
+persons volunteers
+appointment no
+time_comm short term 
+location 
+address 680 Sherbrooke st. O first floor
+phone_no 5143988500
+website http://www.sacomss.org/wp/services/drop-in-and-line/
+hours
+full_desc The Sexual Assault Centre of the McGill Students’ Society (SACOMSS) is a volunteer-run organization committed to supporting survivors of sexual assault and their allies through direct support, advocacy, and outreach. DIAL operates a confidential, non-judgemental sexual assault helpline and drop-in service, providing listening and support to survivors, their peers, and their allies.
+
+DIAL is open to the public, free-of-charge, and currently offered in English. Referrals to other Montreal services, including sexual health clinics, counseling services, and sexual rights organizations, are available for survivors, if desired.
+
+
+*** ON CAMPUS SERVICES ***
+name PhD Support Group
+medium inperson group
+persons peers group
+appointment https://mcgill.ca/counselling/workshops/support-groups-0
+time_comm long-term self-schedule
+location downtown
+address Thomson House Rm 403
+phone_no na
+website https://mcgill.ca/counselling/workshops/support-groups-0
+hours na
+full_desc PhD Support Group. Do you find it challenging to balance life and academics?  Do you feel disconnected from others in your program?  Do you sometimes struggle to retain your focus and direction? Join our group for ideas, encouragement, motivation and a sense of connectedness.
+
+
+supportgroups@sacomss.org
+3480 McTavish, B-27
+
+The Sexual Assault Centre of the McGill Students’ Society (SACOMSS) is a volunteer-run organization committed to supporting survivors of sexual assault and their allies through direct support, advocacy, and outreach. SACOMSS’ Support Groups program provides a safe space for ongoing healing and empowerment of survivors of the English-speaking Montreal community. Meetings are confidential and free-of-charge. Three to ten members meet weekly with two trained co-facilitators, in a physically accessible, confidential location near McGill’s downtown campus. Since participation is open-ended, you are never forced to attend a set number of sessions. Each group will develop its own guidelines to protect everyone’s emotional safety and maintain respect for one another. From week to week, members determine the direction of discussion. You will never be judged. Through sharing, listening, and encouragement, you will both give and receive emotional support.
+
+To help you transition to your life in Montreal and McGill, the Buddy Program connects new international students with returning students. They provide the friendly face, helping hand, and first Montreal friendship that can make a world of difference for new arrivals. Buddies can also offer linguistic support, cultural guidance and information about life at McGill.
+*** OFF CAMPUS SERVICES ***
+
+name Vent Over Tea
+medium inperson
+persons peers volunteers
+appointment https://ventovertea-montreal.youcanbook.me
+time_comm short-term onetime
+location na
+address na
+phone_no na
+website https://ventovertea.com/en/
+hours na
+full_desc vent over tea is a free active listening service that pairs people who need to vent with an empathetic listener to chat in a local coffee shop. Based in Montreal and founded in April 2015 by McGill psychology graduates, our goal is to provide a casual, confidential and non-judgmental outlet for members of our community. Our program is based on studies that have shown the benefits derived from expressing one's self to a compassionate listener. We do not offer counselling, psychotherapy or advice. We provide you with a listening ear and a safe space to vent. We developped a unique training program with Stephane Bensoussan, holistic health and educational psychologist and director of PsySanté, that teaches our listeners how to actively listen and guide the conversation in a meaningful and empathetic way. Our volunteers can help you work through your problems by asking reflective questions and showing empathetic regard. All you need to do is select an available time and a coffee shop that you would like to meet in. One of our friendly volunteers will meet you there.
+
+name 7 Cups
+medium online
+persons peers professional volunteers
+appointment no
+time_comm free-schedule
+location na
+address na
+phone_no na
+website https://www.7cups.com
+hours na
+full_desc 7 Cups is an on-demand emotional health service and online therapy provider. Anyone who wants to talk about whatever is on their mind can quickly reach out to a trained, compassionate listener through our network. We have hundreds of listeners who come from all walks of life and have diverse experiences. People connect with listeners on 7 Cups for all kinds of reasons, from big existential thoughts to small, day-to-day things that we all experience. Unlike talking to family or friends, a 7 Cups listener doesn’t judge or try to solve problems and say what to do. Our listeners just listen. They understand. They give you the space you need to help you clear your head.
+
+	SACOMSS
+'The Office for Sexual Violence Response, Support and Education is a McGill University office that provides confidential, non-judgemental and non-directional support and education to McGill students, faculty and staff of all genders who have been impacted by sexual violence. The office is committed to working towards the prevention of sexual and gender based violence while fostering a culture of consent at McGill.'
+
+All services are offered by trained volunteers, many of whom are students or community members. We are not professionals. Our support comes in the form of facilitated support groups, active-listening, resource referrals, reporting information, and accompaniment. We are a SSMU service, meaning we operate under the umbrella of the McGill Student Union.
+
+Advocacy Branch volunteers are trained to assist and support individuals who are interested in reporting sexual violence at McGill or filing a complaint under a McGill policy. In addition, they are knowledgeable about support and accommodations that are available.
+
+	O-SVRSE
+Operated by full time staff, including professional social workers. They offer crisis intervention, short term crisis counseling, referrals, survivor support activities, support groups, reporting information, and accompaniment. They are an office within McGill University under the Office of the Dean of Students.
+
+Staff members can support individuals who are interested in reporting sexual violence at McGill, to McGill Security, or the Police. In addition, they are able to accompany individuals through the process both at McGill and outside of McGill.
+
+
+The Buddy Program 
+
+PHONE SERVICES
+
+Nightline/Chatline
+5143986364
+https://nightline.ssmu.ca
+McGill Students’ Nightline is a confidential, anonymous, and non-judgmental listening service run by McGill students. We aim to provide the community with a variety of support, which includes anything from information to crisis management and referrals. We are an English service.
+
+We are an information and referral service.
+We are here to help you find the answer to pretty much any question you can think of. Whether you need directions, are wondering about an academic policy, or want to know how to bake lasagna, we can help you out! Additionally, we can offer referrals to a multitude of McGill and Montreal services. Feel free to ask us for anything from a pizza delivery number to a Montreal drop-in clinic.
+
+We are an active listening service.
+Sometimes friends give too much advice, sometimes you might feel uncomfortable talking to those around you, and sometimes you really just want something to be kept confidential. That’s okay, and that’s why we’re here! If you’re stressed out about school, or maybe you find yourself really missing home, give us a call—we’re here to listen and help you work through whatever you’re feeling.
+
+We are trained in crisis management.
+A crisis is any situation where you feel overwhelmed and may not know what to do. Some examples include a sudden loss in your life, an uncomfortable drug trip, and sexual assault. Please give us a call if you ever experience anything that feels out of your control. We’re here to support you, no matter what life might throw your way.
+
+Ecoute Entraide
+514 278 2130
+Anonymous and confidential support line for mental health and more. Available 8 am to midnight, 7 days a week. French only.
+
+Anorexia and Bulimia Quebec
+514 630 0907
+1800 630 0907
+Helpline for those affected by eating disorders and for those around them. Bilingual. Open 7 days a week from 8am-3am.
+
+Drug and Alcohol Helpline
+514 527 2626
+
+Gambling Helpline
+514 527 0140
+1800 461 0140
+
+Revivre 
+1866 738 4873
+Anxiety, depression, and bipolar disorder toll-free support line. Available Monday to Friday from 9 am to 5 pm. Bilingual.
+
+Project 10 Listening Line
+514 989 4585
+Anonymous listening line for LGBTQ+ youth and the wider community.
+Available Tuesday and Wednesday from 12 to 6 pm, and Thursday from 1:30 to 6 pm. Bilingual. The listening line provides an anonymous and easily accessible avenue for support and information for LGBITQ youths 14 to 25 and the wider community. It is one of the core services that we offer at Project 10. The listening line provides peer support, active listening, as well as information and referrals to LGBITQ services. The line may be particularly useful for people who are not ready to access services in person, or who live too far away to be able to make it to Project 10
+
+Interligne
+514 866 0103
+Confidential help and information regarding sexual orientation and gender diversity. Available 24/7. Bilingual.
+
+Trans lifeline
+877 330 6366
+Staffed by transgender people; will respond to whatever needs members of the trans community may have, particularly but not exclusively crisis. 11am-5am every day. Appears to be English only.
+

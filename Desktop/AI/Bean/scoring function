@@ -1,0 +1,42 @@
+scoring function 
+- function takes in user information and service information
+- returns likelihood of fitness
+	- higher score is better match
+- function(user_information, service_information) -> likelihood of fitness
+		- use machine learning to train the function so that it is good 
+
+- given this function, how can you do a recommendation 
+- KNN approach is the one with user user comparison 
+		- but we don't have a lot of users 
+		- what if there are multiple things that are good for similar users 
+- aggregation to find it 
+	- top K nearest users 
+
+- if you have services that have never been used then they will never be recommended
+
+- finding the most similar match 
+
+
+- we need a scoring function first !!!
+- look back to all the user item pairs and give the top statistics 
+	- some of the services probably have not been tried a lot, so there is no confidence there 
+	- you get to ask them what the problem is 
+- use content based and use the item item similarity
+	- you would need a sophisticated cross validation 
+	- you can start with 50/50 and then have the weights updated 
+
+- Looking only at what you want to use from the user profile 
+	- pick those user attributes 
+	- describe your problem for the goal keywords 
+- Just collect the important information 
+	- just ask what is their problem 
+	- use those for content based filtering 
+	- find a match, use distance to obtain the feedback score and rank the feedback score
+
+- vectors have to have the same dimensions
+
+- there will be a scoring function for content 
+	- scoring function might not matter in the very beginning 
+
+- heirarchical chatbot -> dont go that deep for that it will be too complicated 
+
